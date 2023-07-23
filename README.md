@@ -1,28 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jyotirmayee Parida</h1>
-<h3 align="center">Hey! I'm a B.Tech graduate with a deep love for Graphic Design and DevOps. Creating visually stunning designs and optimizing workflows using Docker, Git, Jenkins, and AWS gets me excited. My aim is to blend technology and creativity to deliver innovative solutions that make an impact.</h3>
+### Hi there 👋, , I'm Jyotirmayee Parida
+![](https://github.com/jyotirmayee2312/jyotirmayee2312/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotirmayee2312" alt="jyotirmayee2312" /></a> </p>
+Hey! I'm a B.Tech graduate with a deep love for Graphic Design and DevOps. Creating visually stunning designs and optimizing workflows using Docker, Git, Jenkins, and AWS gets me excited. My aim is to blend technology and creativity to deliver innovative solutions that make an impact.
 
-<p align="left"> <a href="https://twitter.com/jyotirmayee23" target="blank"><img src="https://img.shields.io/twitter/follow/jyotirmayee23?logo=twitter&style=for-the-badge" alt="jyotirmayee23" /></a> </p>
+Skills: Docker/kubernetes/linux/shell-scripting
 
-- 🌱 I’m currently learning **DevOps**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning DevOps 
+- 📫 How to reach me: jyotirmayeep2312@gmail.com 
 
-- 📝 I regularly write articles on [https://jyotirmayee.hashnode.dev/](https://jyotirmayee.hashnode.dev/)
 
-- 📫 How to reach me **Jyotirmayeep2312@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jyotirmayee2312)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](@Jyotirmayee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jyotirmayee-parida/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jyotirmayee23)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jyotirmayee23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotirmayee23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jyotirmayee-parida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jyotirmayee-parida/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jyotirmayee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jyotirmayee" height="30" width="40" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jyotirmayee2312)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmayee2312)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotirmayee2312&show_icons=true&locale=en&layout=compact" alt="jyotirmayee2312" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotirmayee2312&show_icons=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmayee2312&show_icons=true&locale=en" alt="jyotirmayee2312" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jyotirmayee2312)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmayee2312&" alt="jyotirmayee2312" /></p>

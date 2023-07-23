@@ -1,5 +1,5 @@
 ### Hi there 👋, , I'm Jyotirmayee Parida
-![](https://github.com/jyotirmayee2312/jyotirmayee2312/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![](https://github.com/jyotirmayee2312/jyotirmayee2312/blob/main/pihu.jpg)
 
 Hey! I'm a B.Tech graduate with a deep love for Graphic Design and DevOps. Creating visually stunning designs and optimizing workflows using Docker, Git, Jenkins, and AWS gets me excited. My aim is to blend technology and creativity to deliver innovative solutions that make an impact.
 
